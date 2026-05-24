@@ -51,20 +51,67 @@ That is it. Results are saved automatically to `output/sample-output.json`.
 ## What you will see
 
 ```
-Found 10 submissions
-
 Checking: Submission #1
-  Emails: 1 | Cards: 1
-
 Checking: Submission #2
-  Emails: 1 | Cards: 1
-
 Checking: Submission #3
   Flagged! Contains unsafe HTML
 
-...
+Checking: Submission #4
+Checking: Submission #5
+  Flagged! Contains unsafe HTML
 
+Checking: Submission #6
+Checking: Submission #7
+Checking: Submission #8
+Checking: Submission #9
+Checking: Submission #10
+
+========== RESULTS ==========
+
+EMAILS FOUND:
+  Official : ['amara.diallo@alueducation.com', 'eric.nshimiyimana@alueducation.com', 'solange.uwimana@alueducation.com']
+  Alumni   : ['kevin.mugisha@alumni.alueducation.com', 'grace.iradukunda@alumni.alueducation.com']
+  SI       : ['diane.uwase@si.alueducation.com', 'patrick.habimana@si.alueducation.com']
+  Other    : none
+
+URLs FOUND:
+   https://amaradiallo.com/portfolio
+   https://kevinmugisha.dev
+   https://diane-uwase.notion.site
+   https://github.com/ericnshimiyimana
+   https://graceiradukunda.com/projects
+   https://patrickhabimana.io/startup
+   https://medium.com/@solange-uwimana
+
+PHONES FOUND:
+   0782 345 678
+   0729 678 901
+   0733 012 345
+
+CREDIT CARDS FOUND (masked):
+   XXXX-XXXX-XXXX-6467
+   XXXX-XXXX-XXXX-9903
+   XXXX-XXXX-XXXX-9776
+   XXXX-XXXX-XXXX-6453
+   XXXX-XXXX-XXXX-0000
+   XXXX-XXXX-XXXX-1234
+   XXXX-XXXX-XXXX-7890
+
+TIMES FOUND:
+  ['9:00 AM', '10:30 AM', '2:15 PM', '14:00', '3:45 PM', '8:05 AM', '16:30']
+
+HASHTAGS FOUND:
+  ['#ALUStudent', '#TechAfrica', '#ALUAlumni', '#Rwanda', '#SocialInnovation', '#ALU', '#OpenSource', '#CodeRwanda', '#WomenInTech', '#ALUAlumni', '#Startup', '#EdTech', '#Rwanda', '#ALUStaff', '#BuildingAfrica']
+
+CURRENCY FOUND:
+  ['RWF 50,000', 'USD 200', 'RWF 75,000', 'EUR 150', 'USD 350', 'RWF 120,000', 'USD 500']
+
+FLAGGED SUBMISSIONS:
+  ['Submission #3', 'Submission #5']
+
+=============================
 Done! Results saved to output/sample-output.json
+
 ```
 
 ---
