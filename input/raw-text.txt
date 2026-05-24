@@ -1,0 +1,102 @@
+===== ALU Student Registration Portal - Form Submissions =====
+Date: 2026-5-14
+Note: These are raw form submissions. Some may contain invalid or unsafe data.
+
+-- Submission #1 --
+Name: Amara Diallo
+Email: amara.diallo@alueducation.com
+Phone: +250 78 234 567
+Website: https://amaradiallo.com/portfolio
+Card: 4532 1488 0343 6467
+Time: 9:00 AM
+Hashtags: #ALUStudent #TechAfrica
+Amount: RWF 50,000
+
+-- Submission #2 --
+Name: Kevin Mugisha
+Email: kevin.mugisha@alumni.alueducation.com
+Phone: 0782 345 678
+Website: https://kevinmugisha.dev
+Card: 5425 2334 3010 9903
+Time: 10:30 AM
+Hashtags: #ALUAlumni #Rwanda
+Amount: USD 200
+
+-- Submission #3 --
+Name: <script>alert('hacked')</script>
+Email: hacker@evil.com
+Phone: 0001112223
+Website: <iframe src="http://evil.com"></iframe>
+Card: 1234 5678 9012 3456
+Time: 00:00
+Hashtags: #<script>bad</script>
+
+-- Submission #4 --
+Name: Diane Uwase
+Email: diane.uwase@si.alueducation.com
+Phone: +250 73 456 789
+Website: https://diane-uwase.notion.site
+Card: 4916 3384 0533 9776
+Time: 2:15 PM
+Hashtags: #SocialInnovation #ALU
+Amount: RWF 75,000
+
+-- Submission #5 --
+Name: javascript:void(0)
+Email: test@test.com
+Phone: 0788 000 000
+Website: javascript:alert(document.cookie)
+Card: 4000 0000 0000 0002
+Time: 12:00 PM
+Hashtags: #hacked
+
+-- Submission #6 --
+Name: Eric Nshimiyimana
+Email: eric.nshimiyimana@alueducation.com
+Phone: +250 72 567 890
+Website: https://github.com/ericnshimiyimana
+Card: 3714 496353 98431
+Time: 14:00
+Hashtags: #OpenSource #CodeRwanda
+Amount: EUR 150
+
+-- Submission #7 --
+Name: Grace Iradukunda
+Email: grace.iradukunda@alumni.alueducation.com
+Phone: 0729 678 901
+Website: https://graceiradukunda.com/projects
+Card: 4539 1488 0343 6453
+Time: 3:45 PM
+Hashtags: #WomenInTech #ALUAlumni
+Amount: USD 350
+
+-- Submission #8 --
+Name: (blank submission)
+Email:
+Phone:
+Website:
+Card: 0000 0000 0000 0000
+Time:
+Hashtags:
+
+-- Submission #9 --
+Name: Patrick Habimana
+Email: patrick.habimana@si.alueducation.com
+Phone: +250 78 901 234
+Website: https://patrickhabimana.io/startup
+Card: 4485 2752 4498 1234
+Time: 8:05 AM
+Hashtags: #Startup #EdTech #Rwanda
+Amount: RWF 120,000
+
+-- Submission #10 --
+Name: Solange Uwimana
+Email: solange.uwimana@alueducation.com
+Phone: 0733 012 345
+Website: https://medium.com/@solange-uwimana
+Card: 4532 7568 0343 7890
+Time: 16:30
+Hashtags: #ALUStaff #BuildingAfrica
+Amount: USD 500
+
+===== END OF SUBMISSIONS =====

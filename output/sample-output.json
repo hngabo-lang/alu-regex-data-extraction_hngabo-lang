@@ -1,0 +1,236 @@
+[
+    {
+        "submission": "Submission #1",
+        "flagged": false,
+        "emails": {
+            "official": [
+                "amara.diallo@alueducation.com"
+            ],
+            "alumni": [],
+            "si": [],
+            "other": []
+        },
+        "urls": [
+            "https://amaradiallo.com/portfolio"
+        ],
+        "phones": [],
+        "cards": [
+            "XXXX-XXXX-XXXX-6467"
+        ],
+        "times": [
+            "9:00 AM"
+        ],
+        "hashtags": [
+            "#ALUStudent",
+            "#TechAfrica"
+        ],
+        "currency": [
+            "RWF 50,000"
+        ]
+    },
+    {
+        "submission": "Submission #2",
+        "flagged": false,
+        "emails": {
+            "official": [],
+            "alumni": [
+                "kevin.mugisha@alumni.alueducation.com"
+            ],
+            "si": [],
+            "other": []
+        },
+        "urls": [
+            "https://kevinmugisha.dev"
+        ],
+        "phones": [
+            "0782 345 678"
+        ],
+        "cards": [
+            "XXXX-XXXX-XXXX-9903"
+        ],
+        "times": [
+            "10:30 AM"
+        ],
+        "hashtags": [
+            "#ALUAlumni",
+            "#Rwanda"
+        ],
+        "currency": [
+            "USD 200"
+        ]
+    },
+    {
+        "submission": "Submission #3",
+        "flagged": true
+    },
+    {
+        "submission": "Submission #4",
+        "flagged": false,
+        "emails": {
+            "official": [],
+            "alumni": [],
+            "si": [
+                "diane.uwase@si.alueducation.com"
+            ],
+            "other": []
+        },
+        "urls": [
+            "https://diane-uwase.notion.site"
+        ],
+        "phones": [],
+        "cards": [
+            "XXXX-XXXX-XXXX-9776"
+        ],
+        "times": [
+            "2:15 PM"
+        ],
+        "hashtags": [
+            "#SocialInnovation",
+            "#ALU"
+        ],
+        "currency": [
+            "RWF 75,000"
+        ]
+    },
+    {
+        "submission": "Submission #5",
+        "flagged": true
+    },
+    {
+        "submission": "Submission #6",
+        "flagged": false,
+        "emails": {
+            "official": [
+                "eric.nshimiyimana@alueducation.com"
+            ],
+            "alumni": [],
+            "si": [],
+            "other": []
+        },
+        "urls": [
+            "https://github.com/ericnshimiyimana"
+        ],
+        "phones": [],
+        "cards": [],
+        "times": [
+            "14:00"
+        ],
+        "hashtags": [
+            "#OpenSource",
+            "#CodeRwanda"
+        ],
+        "currency": [
+            "EUR 150"
+        ]
+    },
+    {
+        "submission": "Submission #7",
+        "flagged": false,
+        "emails": {
+            "official": [],
+            "alumni": [
+                "grace.iradukunda@alumni.alueducation.com"
+            ],
+            "si": [],
+            "other": []
+        },
+        "urls": [
+            "https://graceiradukunda.com/projects"
+        ],
+        "phones": [
+            "0729 678 901"
+        ],
+        "cards": [
+            "XXXX-XXXX-XXXX-6453"
+        ],
+        "times": [
+            "3:45 PM"
+        ],
+        "hashtags": [
+            "#WomenInTech",
+            "#ALUAlumni"
+        ],
+        "currency": [
+            "USD 350"
+        ]
+    },
+    {
+        "submission": "Submission #8",
+        "flagged": false,
+        "emails": {
+            "official": [],
+            "alumni": [],
+            "si": [],
+            "other": []
+        },
+        "urls": [],
+        "phones": [],
+        "cards": [
+            "XXXX-XXXX-XXXX-0000"
+        ],
+        "times": [],
+        "hashtags": [],
+        "currency": []
+    },
+    {
+        "submission": "Submission #9",
+        "flagged": false,
+        "emails": {
+            "official": [],
+            "alumni": [],
+            "si": [
+                "patrick.habimana@si.alueducation.com"
+            ],
+            "other": []
+        },
+        "urls": [
+            "https://patrickhabimana.io/startup"
+        ],
+        "phones": [],
+        "cards": [
+            "XXXX-XXXX-XXXX-1234"
+        ],
+        "times": [
+            "8:05 AM"
+        ],
+        "hashtags": [
+            "#Startup",
+            "#EdTech",
+            "#Rwanda"
+        ],
+        "currency": [
+            "RWF 120,000"
+        ]
+    },
+    {
+        "submission": "Submission #10",
+        "flagged": false,
+        "emails": {
+            "official": [
+                "solange.uwimana@alueducation.com"
+            ],
+            "alumni": [],
+            "si": [],
+            "other": []
+        },
+        "urls": [
+            "https://medium.com/@solange-uwimana"
+        ],
+        "phones": [
+            "0733 012 345"
+        ],
+        "cards": [
+            "XXXX-XXXX-XXXX-7890"
+        ],
+        "times": [
+            "16:30"
+        ],
+        "hashtags": [
+            "#ALUStaff",
+            "#BuildingAfrica"
+        ],
+        "currency": [
+            "USD 500"
+        ]
+    }
+]
