@@ -16,15 +16,22 @@ def main():
         return
 
     # ── regex patterns ──
+     # matches the real pattern of email having both letters and digits and also @followed by alu domains starting with +250 or 07
     email_pattern    = r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
+     # matches all real URL links having https, stp
     url_pattern      = r"https?://[^\s]+"
+    # matches Rwanda phone numbers starting with +250 or 07
     phone_pattern    = r"(?:\+250|0)7[2389]\d[\s\-]?\d{3}[\s\-]?\d{3}"
+    # matches credit cards in groups of 4 digits separated by space or dash
     card_pattern     = r"\d{4}[\s\-]\d{4}[\s\-]\d{4}[\s\-]\d{4}"
     time_pattern     = r"\b(?:1[0-2]|[1-9]|[01][0-9]|2[0-3]):[0-5][0-9](?:\s?(?:AM|PM))?\b"
+     # matches all text starting with a #
     hashtag_pattern  = r"#[a-zA-Z]\w+"
+     # matches currencies in usd, eur and rwf
     currency_pattern = r"(?:USD|EUR|RWF|\$)\s?\d+(?:[.,]\d+)*"
 
     # ── html tags that are dangerous ──
+    # dangerous HTML tags that should never appear in real submissions
     bad_tags = ["<script>", "<iframe>", "<onerror>", "javascript:"]
 
     # ── split file into separate submissions ──
